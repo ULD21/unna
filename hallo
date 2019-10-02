@@ -1,12 +1,16 @@
  <!DOCTYPE html>
 <html>
 <head>
-<title>Page Title</title>
+<style>
+body { background-color: #99ccff;
+}
+</style>
+<title>Informatica 4V Unna</title>
 </head>
 <body>
 
-<h1>This is a Heading</h1>
-<p>This is a paragraph.</p>
+<h1>Hallo! &#128540;</h1>
+<p>Ik heb geen idee wat ik hier moet schrijven &#128579;</p>
 
 </body>
 </html> 
